@@ -1,5 +1,7 @@
 # Hi there, I'm Johnzel 👋
 
+---
+
 ## I am a **BSIT Student** focusing on the fundamentals of Computer Science. Currently analyzing the "mechanics" of software through low-level programming.
 
 -  **Current Progress:** Grasping **C** Core Concepts (Pointers, Memory Management, Structs).
