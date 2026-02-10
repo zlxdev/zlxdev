@@ -1,10 +1,10 @@
-### Hi there, I'm Johnzel 👋
+# Hi there, I'm Johnzel 👋
 
-I am a **BSIT Student** focusing on the fundamentals of Computer Science. Currently analyzing the "mechanics" of software through low-level programming.
+## I am a **BSIT Student** focusing on the fundamentals of Computer Science. Currently analyzing the "mechanics" of software through low-level programming.
 
-- 🔭 **Current Progress:** Grasping **C** Core Concepts (Pointers, Memory Management, Structs).
-- 🌱 **Career Goals:** Game Development, System Engineering & Architecture, Software Development, Robotics Intelligence Engineer, or Cybersecurity.
-- ⚡ **Current Occupation and Age:** *Student at a local private college and currently 18 years old as of 2/10/2026*
+-  **Current Progress:** Grasping **C** Core Concepts (Pointers, Memory Management, Structs).
+-  **Career Goals:** Game Development, System Engineering & Architecture, Software Development, Robotics Intelligence Engineer, or Cybersecurity.
+-  **Current Occupation and Age:** *Student at a local private college and currently 18 years old as of 2/10/2026*
 
 ---
 
@@ -29,7 +29,7 @@ I am a **BSIT Student** focusing on the fundamentals of Computer Science. Curren
 
 ---
 
-### 📊 Player Stats
+### 📊 Statistics
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zlxdev&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="zlxdev's Stats" />
   
