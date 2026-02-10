@@ -34,3 +34,4 @@ I am a **BSIT Student** focusing on the fundamentals of Computer Science. Curren
 ### 📊 Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=zlxdev&show_icons=true&theme=gotham&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlxdev&layout=compact&theme=gotham&hide_border=true&langs_count=6)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=gotham&hide_border=true)
