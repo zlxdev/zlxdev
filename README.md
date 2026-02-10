@@ -10,9 +10,9 @@ I am a **BSIT Student** focusing on the fundamentals of Computer Science. Curren
 
 ### 🛠️ Tech Stack & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [Future Topic]
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) [Future Topic]
-![Video Editing](https://img.shields.io/badge/Video_Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) [Novice Level]
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ---
 
