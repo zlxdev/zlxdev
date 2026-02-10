@@ -1,35 +1,43 @@
-# About Me
+<div align="center">
 
-### Hi there, I'm Johnzel 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Johnzel+Marahay;BSIT+Student;C+Programmer;Future+Game+Dev" alt="Typing SVG" />
+  </a>
 
-I am a **BSIT Student** focusing on the fundamentals of Computer Science. Currently analyzing the "mechanics" of software through low-level programming.
+  <p><em>"Theory -> Practice -> Fail -> Learn -> Test -> Deploy -> Produce"</em></p>
 
--  **Current Progress:** Grasping **C** Core Concepts (Pointers, Memory Management, Structs).
--  **Career Goals:** Game Development, System Engineering & Architecture, Software Development, Robotics Intelligence Engineer, or Cybersecurity.
--  **Current Occupation and Age:** *Student at a local private college and currently 18 years old as of 2/10/2026*
+  <br/>
 
----
+  <p align="center">
+    <strong>Current Focus:</strong> Grasping C Core Concepts (Pointers, Memory, Structs)<br/>
+    <strong>Future Goals:</strong> Game Dev, System Architecture & Cybersecurity<br/>
+    <strong>Status:</strong> 18 y/o Student @ Our Lady of Lourdes College
+  </p>
 
-### 🛠️ Tech Stack & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+  <br/>
 
----
+  <h3>⚔️ Equipment & Skills</h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video_Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 
-### 🌐 Connect with Me
-<a href="https://web.facebook.com/j.z.l.marahay">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/jzl.mrhy">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.tiktok.com/@jnzl.eng">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-</a>
+  <br/><br/>
 
----
+  <h3>📊 Training Progress</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=gotham&hide_border=true" alt="Streak" />
 
-### 📊 Statistics
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=gotham&hide_border=true)
+  <br/><br/>
+
+  <h3>🌐 Connect</h3>
+  <a href="https://web.facebook.com/j.z.l.marahay">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
+</div>
