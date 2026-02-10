@@ -1,8 +1,8 @@
-# Hi there, I'm Johnzel 👋
+# About Me
 
----
+### Hi there, I'm Johnzel 👋
 
-## I am a **BSIT Student** focusing on the fundamentals of Computer Science. Currently analyzing the "mechanics" of software through low-level programming.
+I am a **BSIT Student** focusing on the fundamentals of Computer Science. Currently analyzing the "mechanics" of software through low-level programming.
 
 -  **Current Progress:** Grasping **C** Core Concepts (Pointers, Memory Management, Structs).
 -  **Career Goals:** Game Development, System Engineering & Architecture, Software Development, Robotics Intelligence Engineer, or Cybersecurity.
@@ -32,8 +32,5 @@
 ---
 
 ### 📊 Statistics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zlxdev&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="zlxdev's Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=gotham&hide_border=true" height="150" alt="zlxdev's Streak" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=zlxdev&show_icons=true&theme=gotham&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlxdev&layout=compact&theme=gotham&hide_border=true&langs_count=6)
