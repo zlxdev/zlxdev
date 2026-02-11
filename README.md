@@ -1,43 +1,52 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Johnzel+Marahay;BSIT+Student;C+Programmer;Future+Game+Dev" alt="Typing SVG" />
-  </a>
-
-  <p><em>"Theory -> Practice -> Fail -> Learn -> Test -> Deploy -> Produce"</em></p>
-
-  <br/>
-
-  <p align="center">
-    <strong>Current Focus:</strong> Grasping C Core Concepts (Pointers, Memory, Structs)<br/>
-    <strong>Future Goals:</strong> Game Dev, System Architecture & Cybersecurity<br/>
-    <strong>Status:</strong> 18 y/o Student @ Our Lady of Lourdes College
+  # Hello, I'm Johnzel! 👋
+  
+  <p>
+    <i>"Theory -> Practice -> Fail -> Learn -> Test -> Deploy -> Produce"</i>
   </p>
 
-  <br/>
-
-  <h3>⚔️ Equipment & Skills</h3>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video_Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-
-  <br/><br/>
-
-  <h3>📊 Training Progress</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=gotham&hide_border=true" alt="Streak" />
-
-  <br/><br/>
-
-  <h3>🌐 Connect</h3>
-  <a href="https://web.facebook.com/j.z.l.marahay">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <a href="https://github.com/zlxdev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=C+Programmer;System+Architecture+Enthusiast;Building+Low-Level+Solutions" alt="Typing SVG" />
   </a>
 
 </div>
+
+---
+
+### 🚀 Featured Project: The Road of C
+I am currently documenting my journey to master C from scratch to memory management.
+> **[Click here to view the Repository](https://github.com/zlxdev/The-Road-of-C)** > *Hand-coded mastery. No shortcuts. Pure C.*
+
+---
+
+### 👨‍💻 About Me
+* **Current Focus:** Grasping C Core Concepts (Pointers, Memory, Structs)
+* **Future Goals:** Game Dev, System Architecture & Cybersecurity
+* **Status:** 18 y/o Student @ Our Lady of Lourdes College
+
+### 🛠️ Equipment & Skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zlxdev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxdev&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 🤝 Let's Connect
+*Looking for study buddies or peers interested in low-level programming? Reach out!*
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
