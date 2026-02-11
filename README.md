@@ -14,18 +14,18 @@
 
 ---
 
-### 🚀 Featured Project: The Road of C
+###  Featured Project: The Road of C
 I am currently documenting my journey to master C from scratch to memory management.
 > **[Click here to view the Repository](https://github.com/zlxdev/The-Road-of-C)** > *Hand-coded mastery. No shortcuts. Pure C.*
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 * **Current Focus:** Grasping C Core Concepts (Pointers, Memory, Structs)
 * **Future Goals:** Game Dev, System Architecture & Cybersecurity
 * **Status:** 18 y/o Student @ Our Lady of Lourdes College
 
-### 🛠️ Equipment & Skills
+###  Equipment & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,20 +33,25 @@ I am currently documenting my journey to master C from scratch to memory managem
 
 ---
 
-### 📈 GitHub Stats
+###  Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zlxdev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxdev&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=dark&hide_border=true" alt="Zlxdev's Streak" />
+  
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zlxdev&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Zlxdev's Trophies" />
+  </a>
 </div>
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 *Looking for study buddies or peers interested in low-level programming? Reach out!*
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:j.marahay.pro@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://discord.com">
+<a href="https://discord.com/users/1277592437350596669">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
