@@ -1,13 +1,13 @@
 <div align="center">
 
-  # Hello, I'm Johnzel! 👋
+  # Hello, I'm Johnzel!
   
   <p>
     <i>"Theory -> Practice -> Fail -> Learn -> Test -> Deploy -> Produce"</i>
   </p>
 
   <a href="https://github.com/zlxdev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=C+Programmer;System+Architecture+Enthusiast;Building+Low-Level+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=C+Programmer;Collegiate+Student;Building+Low-Level+Programs" alt="Typing SVG" />
   </a>
 
 </div>
@@ -36,12 +36,7 @@ I am currently documenting my journey to master C from scratch to memory managem
 ###  Statistics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=dark&hide_border=true" alt="Zlxdev's Streak" />
-  
   <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zlxdev&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Zlxdev's Trophies" />
-  </a>
 </div>
 
 ---
